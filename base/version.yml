@@ -11,6 +11,6 @@ spec:
         env:
         - name: VERSION
           valueFrom:
-            resourceFieldRef:
-              containerName: webserver-simple
+            fieldRef:
+              fieldPath: webserver-simple
               resource: image
