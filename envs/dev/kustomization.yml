@@ -13,4 +13,4 @@ patchesStrategicMerge:
 images:
 - name: docker.io/javadza/environment-promotion
   newName: docker.io/javadza/environment-promotion
-  newTag: 2022-08-29-e060e6f
+  newTag: 2022-08-29-4e6f950
